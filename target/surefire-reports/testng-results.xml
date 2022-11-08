@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="seleniumpractice.TestNgDemo" duration-ms="44" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+    <groups>
+      <group name="Functional">
+        <method signature="TestNgDemo.launchBrowserTest()[pri:3, instance:seleniumpractice.TestNgDemo@735b478]" name="launchBrowserTest" class="seleniumpractice.TestNgDemo"/>
+      </group> <!-- Functional -->
+      <group name="Sanity">
+        <method signature="TestNgDemo.closeMyBrowser()[pri:0, instance:seleniumpractice.TestNgDemo@735b478]" name="closeMyBrowser" class="seleniumpractice.TestNgDemo"/>
+        <method signature="TestNgDemo.launchBrowserTest()[pri:3, instance:seleniumpractice.TestNgDemo@735b478]" name="launchBrowserTest" class="seleniumpractice.TestNgDemo"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TestNgDemo.closeMyBrowser()[pri:0, instance:seleniumpractice.TestNgDemo@735b478]" name="closeMyBrowser" class="seleniumpractice.TestNgDemo"/>
+        <method signature="TestNgDemo.launchBrowserTest()[pri:3, instance:seleniumpractice.TestNgDemo@735b478]" name="launchBrowserTest" class="seleniumpractice.TestNgDemo"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Command line test" duration-ms="44" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+      <class name="seleniumpractice.TestNgDemo">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:seleniumpractice.TestNgDemo@735b478]" name="SetUp" is-config="true" duration-ms="12" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="closeMyBrowser()[pri:0, instance:seleniumpractice.TestNgDemo@735b478]" name="closeMyBrowser" duration-ms="1" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeMyBrowser -->
+        <test-method status="PASS" signature="quitTests()[pri:0, instance:seleniumpractice.TestNgDemo@735b478]" name="quitTests" is-config="true" duration-ms="0" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitTests -->
+        <test-method status="PASS" signature="quitTests()[pri:0, instance:seleniumpractice.TestNgDemo@735b478]" name="quitTests" is-config="true" duration-ms="0" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitTests -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:seleniumpractice.TestNgDemo@735b478]" name="SetUp" is-config="true" duration-ms="0" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="launchBrowserTest()[pri:3, instance:seleniumpractice.TestNgDemo@735b478]" name="launchBrowserTest" duration-ms="0" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserTest -->
+        <test-method status="PASS" signature="closeMyBrowserP2()[pri:0, instance:seleniumpractice.TestNgDemo@735b478]" name="closeMyBrowserP2" duration-ms="0" depends-on-groups="Sanity" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeMyBrowserP2 -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:seleniumpractice.TestNgDemo@735b478]" name="SetUp" is-config="true" duration-ms="0" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="quitTests()[pri:0, instance:seleniumpractice.TestNgDemo@735b478]" name="quitTests" is-config="true" duration-ms="0" started-at="2022-11-03T02:53:56Z" finished-at="2022-11-03T02:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitTests -->
+      </class> <!-- seleniumpractice.TestNgDemo -->
+    </test> <!-- Command line test -->
+  </suite> <!-- seleniumpractice.TestNgDemo -->
+</testng-results>
