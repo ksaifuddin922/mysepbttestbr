@@ -39,6 +39,7 @@ public class TestNgDemo {
 	public void closeMyBrowserP2() {
 
 		System.out.println("Priority 1");
+		System.out.println("Priority 1");
 		
 		
 		
