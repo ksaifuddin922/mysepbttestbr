@@ -50,6 +50,8 @@ public class TestNgDemo {
 	@AfterMethod
 	public void quitTests() {
 		System.out.println("This is my quit");
+		System.out.println("This is my quit");
+		System.out.println("This is my quit");
 	}
 
 }
